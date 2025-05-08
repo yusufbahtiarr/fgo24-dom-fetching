@@ -3,6 +3,7 @@ This repository contains Javascript DOM Practical Project 3 with fetch data usin
 
 ## Preview
 ![Preview](src/Screenshot.png)
+![Preview](src/Screenshot2.png)
 
 ## How to Run this project
 
